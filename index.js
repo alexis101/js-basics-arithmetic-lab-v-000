@@ -5,4 +5,4 @@ const multiply = var1 * var2;
 
 const random = Math.random();
 
-const max = Math.max(1..20);
+const max = Math.max(1...20);
